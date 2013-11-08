@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:album xmlns:ns2="Trimmel_XML1.Model">
+    <author>Author_Album1</author>
+    <price>lol - This is a string :P</price>
+    <songs>
+        <album>
+            <author>Author1</author>
+            <genre>Genre1</genre>
+            <singer>Singer1</singer>
+            <title>Title1</title>
+        </album>
+        <album>
+            <author>Author2</author>
+            <genre>Genre2</genre>
+            <singer>Singer2</singer>
+            <title>Title2</title>
+        </album>
+    </songs>
+</ns2:album>
