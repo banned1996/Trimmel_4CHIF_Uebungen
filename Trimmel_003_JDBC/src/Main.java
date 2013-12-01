@@ -21,7 +21,6 @@ public class Main {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		
 
 		String conUrl = "jdbc:mysql://" + Main.HOST + ":" + Main.PORT + "/"
 				+ Main.DATABASE;
